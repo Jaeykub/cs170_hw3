@@ -1,0 +1,8 @@
+Name: Jacob Jimenez
+SID: 860982401
+
+Assumption #1: The user will not input an m value that exceeds the total number of spaces available in the nxn grid world.
+
+Assumption #2: No guarantee that either terminal states will be reachable from the start state.
+
+Assumption #3: No guarantee that all states will be reachable from the start state.
